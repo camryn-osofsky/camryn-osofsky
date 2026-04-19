@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering student at Georgia Tech
 --------------------------------------------
 
-My concentrations are in Distributed System & Software Design and Cybersecurity. I've been learning to code for 5 years, and I really enjoy backend development and cloud engineering.
+My concentrations are in Distributed System & Software Design and Cybersecurity. I've been learning to code for 5 years, and I really enjoy backend development, cloud engineering, and generally building cool things.
 
 * 🌍  I'm based in New Jersey/Atlanta
 * ✉️  You can contact me at [closofsky@gatech.edu](mailto:closofsky@gatech.edu)
